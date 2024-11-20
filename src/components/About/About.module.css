@@ -45,12 +45,17 @@
   padding: 25px;
   background-image: linear-gradient(
     90deg,
-    rgba(165, 215, 232, 0.42) 0%,
-    rgba(255, 255, 255, 0) 100%
+    rgba(242, 154, 217, 0.702) 0%,
+    rgba(255, 255, 255, 0.307) 100%
   );
   background-size: 0 100%;
   background-repeat: no-repeat;
   transition: 0.4s;
+}
+
+.aboutItem img {
+  width: 5%;
+  margin-right: 2em;
 }
 
 .aboutItem:hover {

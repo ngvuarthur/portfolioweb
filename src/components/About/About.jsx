@@ -15,9 +15,18 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/file.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Data Analyst</h3>
+              <p>
+              I'm a data analyst skilled in uncovering insights from data and presenting them through clear and impactful visuals
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/file.png")} alt="Server icon" />
+            <div className={styles.aboutItemText}>
+            <h3>Frontend Developer</h3>
               <p>
                 I'm a frontend developer with experience in building responsive
                 and optimized sites
@@ -25,22 +34,12 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/file.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+            <h3>Backend Developer</h3>
               <p>
                 I have experience developing fast and optimised back-end systems
                 and APIs
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
-            <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
-              <p>
-                I have designed multiple landing pages and have created design
-                systems as well
               </p>
             </div>
           </li>

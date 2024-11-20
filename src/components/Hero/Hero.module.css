@@ -1,5 +1,6 @@
 @import "../../vars.css";
 
+ 
 .container {
   position: relative;
   display: flex;
@@ -34,7 +35,8 @@
 }
 
 .description {
-  font-size: 30px;
+  font-size: 1.5em;
+  margin-right: 2em;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
@@ -51,7 +53,7 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 40%;
   z-index: 1;
 
   animation-name: floating;
@@ -81,7 +83,7 @@
   top: -128px;
   left: -10vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: #ffb0c9;
   filter: blur(100px);
   z-index: 0;
 }
@@ -95,7 +97,7 @@
   top: 246px;
   right: -25vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: #ffb0c9;
   filter: blur(100px);
   z-index: 0;
 }

@@ -1,17 +1,17 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Momentous Change website",
+    "imageSrc": "projects/MC.png",
+    "description": "Created and managed stories on the Momentous Change website, focused on fundraising and donor engagement.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://momentouschange.trentu.ca/home",
+    "source": "https://momentouschange.trentu.ca/home"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "myCommunity website",
+    "imageSrc": "projects/NC.png",
+    "description": "Built and updated stories and pages for the university's website.",
+    "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },

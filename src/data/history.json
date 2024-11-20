@@ -1,29 +1,13 @@
-[
-  {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
-  }
-]
+[{
+  "role": "Portfolio Operations Web Assistant",
+  "organisation": "Trent University",
+  "startDate": "May, 2022",
+  "endDate": "Present",
+  "experiences": [
+    "Managing daily webpage creation and editing for Trent Alumni’s site, myCommunity, and Trent fundraising page, Momentous Change, using Blackbaud’s Net Community product and website programming (HTML, CSS, etc.)",
+    "Assisting with managing over 50,000 alumni and donor records within the Raiser’s Edge CRM system, ensuring data integrity through accurate record updating and routine reviews",
+    "Utilizing Power BI to create interactive data visualizations, analyzing donor data and alumni webpage engagement metrics to uncover insights that inform fundraising strategies and optimize decision-making processes."
+  ],
+
+  "imageSrc": "history/trent.png"
+}]
